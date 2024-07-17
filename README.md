@@ -5,5 +5,5 @@ To set up, create a .ENV file / update your secrets to contain your `group` (gro
 
 # Cookie Setup
 1. Create a secondary ROBLOX account and join your group.
-2. Give this account Delete permissions to allow it to manage your group wall
+2. Give this account Read/Delete permissions to allow it to manage your group wall
 3. Copy and paste your .ROBLOSECURITY cookie into the .ENV/secrets
